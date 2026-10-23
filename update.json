@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
+  "versionCode": 999,
   "versionName": "1.1.5",
   "title": "Update Available",
-  "message": "A new version is available.",
+  "message": "Test Update Checker.Don't Update.",
   "downloadUrl": "https://github.com/shahriyarrazinshams/HerosBill/releases/download/V1.0.2/Hero.sBill.apk"
 }
